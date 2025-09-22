@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# DetectoInfo
-=======
-# Telegram Community & Marketplace Bot (for polygraph professionals and HR's)
+# DetectoInfo - Telegram Community & Marketplace Bot (for polygraph professionals and HR's)
 
 **Short summary**  
 A production-grade Telegram bot that provides a classifieds / marketplace + community experience for polygraph professionals: posting/searching ads, applying for jobs/services, ratings & reviews, subscriptions to authors/categories, and a personal cabinet with statistics.

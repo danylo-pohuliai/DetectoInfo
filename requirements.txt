@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue, webhooks]
+aiohttp
+psycopg2-binary
+colorama
+python-dotenv
